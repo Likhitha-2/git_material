@@ -1,0 +1,10 @@
+GIT YOUTUBE MATERIAL:
+
+-->GIt is version control system, means it used for version changes,project save.
+-->IT happens on remote server.
+-->Repo is a project/folder
+-->github is one example of remote repository hosting service
+-->the elements are remote repo, local repo,staging area and working repo
+-->create a folder in path type cmd, it will opwn command prompt/terminal.
+-->git init is used to initialize the folder as git repo.
+-->git status is used to check the status of the files in the repo.
